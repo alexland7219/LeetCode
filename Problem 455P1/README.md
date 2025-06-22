@@ -1,0 +1,7 @@
+### Problem Link: [3591: Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/description/)
+
+| Language |      Tacit code      |  Link  | 
+| :------: | :------------------: | :----: |
+|   Uiua   |   ``/↥Prime≡/+⊞=.``      | [UIUA code](https://uiua.org/pad?src=0_17_0-dev_1__UHJpbWUgICAgICAgICAgIOKGkCDihq864o2c4pa9KD3irJow4oqi4oeM4oq4wrAvw5cp4p-cw5fiirjiiaUyIOKKg-KZreKWswpDaGVja1ByaW1lRnJlcXMg4oaQIC_ihqVQcmltZeKJoS8r4oqePS4KCuKNpOKfnOKJjTogMSBDaGVja1ByaW1lRnJlcXMgWzEgMiAzIDQgNSA0XQrijaTin5ziiY06IDAgQ2hlY2tQcmltZUZyZXFzIFsxIDIgMyA0IDVdCuKNpOKfnOKJjTogMSBDaGVja1ByaW1lRnJlcXMgWzIgMiAyIDQgNF0K)
+|   BQN    |    ``∨´·IsPrime¨·+´˘=⌜˜``    | [BQNPAD](https://bqnpad.mechanize.systems/s?bqn=eyJkb2MiOiJJc1ByaW1lIOKGkCB7Mj0rwrQwPSgxK%2BKGlSniirh88J2VqX0gIyBmcm9tIEJRTiBDcmF0ZVxuXG5DaGVja1ByaW1lRnJlcSDihpAg4oiowrTCt0lzUHJpbWXCqMK3K8K0y5g94oycy5xcblxu4oCiU2hvdyBDaGVja1ByaW1lRnJlcSAx4oC%2FMuKAvzPigL804oC%2FNeKAvzRcbuKAolNob3cgQ2hlY2tQcmltZUZyZXEgMeKAvzLigL8z4oC%2FNOKAvzVcbkNoZWNrUHJpbWVGcmVxIDLigL8y4oC%2FMuKAvzTigL80IiwicHJldlNlc3Npb25zIjpbXSwiY3VycmVudFNlc3Npb24iOnsiY2VsbHMiOltdLCJjcmVhdGVkQXQiOjE3NTA1NDA1MTE3OTZ9LCJjdXJyZW50Q2VsbCI6eyJmcm9tIjowLCJ0byI6MTcxLCJyZXN1bHQiOm51bGx9fQ%3D%3D)
+| APL | ``∨/IsPrime¨+/∘.=⍨⍵`` | - |  
