@@ -1,0 +1,6 @@
+### Problem Link: [3592. Inverse Coin Change](https://leetcode.com/problems/inverse-coin-change/description/)
+
+| Language |   Link  | 
+| :------: |  :----: |
+|   Uiua   |         | 
+|   BQN    |  [BQNPAD](https://bqnpad.mechanize.systems/s?bqn=eyJkb2MiOiJGaW5kQ29pbnMg4oaQIHtcbiAgICByZXMg4oaQIOKfqOKfqVxuICAgIGF1eCDihpAgKOKJoPCdlakp4qWKMFxuICAgIHtcbiAgICAgIGkg4oaQIOKKkeKMvfCdlalcbiAgICAgIHAg4oaQIOKKkfCdlalcbiAgICAgIHEg4oaQIGniipFhdXhcbiAgICAgIHAgLeKXtnvwnZWkfeKAv3tcbiAgICAgICAg8J2VpCDii4QgYXV44oapMeKKuCvijL4oaeKKuOKKkSlhdXhcbiAgICAgICAgcmVzIOKIvuKGqSDii4gxK2lcbiAgICAgICAgaiDihpAgMFxuICAgICAgICB7IPCdlaQg4ouEIGsg4oaQIDEraStqXG4gICAgICAgICAgYXV44oapKGriipFhdXgp4oq4K%2BKMvihr4oq44oqRKSBhdXhcbiAgICAgICAgICBqICvihqkgMVxuICAgICAgICB94o2fKOKJoGF1eCnijop78J2VpH0gQFxuICAgICAgfSBxXG4gICAgICBcbiAgICB9wqgo8J2VqeKIvsKo4oaV4omg8J2VqSlcbiAgICBcbiAgICByZXNcbn3ijooo4p%2Bo4p%2Bpy5kpIiwicHJldlNlc3Npb25zIjpbXSwiY3VycmVudFNlc3Npb24iOnsiY2VsbHMiOltdLCJjcmVhdGVkQXQiOjE3NTA3MjAyNzUzMDJ9LCJjdXJyZW50Q2VsbCI6eyJmcm9tIjowLCJ0byI6MzMxLCJyZXN1bHQiOm51bGx9fQ%3D%3D) |
